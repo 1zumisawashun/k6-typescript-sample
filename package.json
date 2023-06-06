@@ -23,5 +23,8 @@
   },
   "scripts": {
     "start": "webpack"
+  },
+  "volta": {
+    "node": "14.19.1"
   }
 }
